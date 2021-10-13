@@ -1,0 +1,8 @@
+.btn-success:hover{
+    background-color: rgb(0, 0, 0);
+}
+
+
+#index{
+    background-image: linear-gradient(to right top, #ad9cf8, #5545e6, #160369, #1c027c, #3406b4, #0400ff);
+}
